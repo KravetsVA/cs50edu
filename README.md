@@ -1,2 +1,2 @@
 # cs50edu
-Education CS50 Harvard "Intro to Programming" SoftServ Marathon
+My projects in the SoftServe marathon "Intro to Programming", based on the CS50 course from Harvard University
